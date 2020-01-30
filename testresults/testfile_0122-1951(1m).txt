@@ -1,0 +1,1 @@
+Act Angle:-45, Calc Angle:999, Age:50, Sex:m, Act Length:5

@@ -1,0 +1,3 @@
+Act Angle:-156, Calc Angle:-92.39103920738326, Age:50, Sex:m, Act Length:3
+Act Angle:24, Calc Angle:51.080584379190334, Age:53, Sex:f, Act Length:3
+Act Angle:-64, Calc Angle:-40.17696207330564, Age:53, Sex:f, Act Length:2

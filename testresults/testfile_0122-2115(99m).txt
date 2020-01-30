@@ -1,0 +1,1 @@
+Act Angle:23, Calc Angle:32.458105958691505, Age:53, Sex:f, Act Length:5

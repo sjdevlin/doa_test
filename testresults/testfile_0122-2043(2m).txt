@@ -1,0 +1,9 @@
+Act Angle:-81, Calc Angle:-2.264175665048789, Age:53, Sex:f, Act Length:5
+Act Angle:-36, Calc Angle:-7.082502159152007, Age:50, Sex:m, Act Length:3
+Act Angle:34, Calc Angle:-4.997130153792591, Age:50, Sex:m, Act Length:8
+Act Angle:-138, Calc Angle:-26.54960807953248, Age:50, Sex:m, Act Length:5
+Act Angle:117, Calc Angle:-19.762724932635297, Age:53, Sex:f, Act Length:2
+Act Angle:47, Calc Angle:5.038061464327207, Age:53, Sex:f, Act Length:3
+Act Angle:-42, Calc Angle:5.658711510076534, Age:53, Sex:f, Act Length:5
+Act Angle:-4, Calc Angle:1.975521576974667, Age:53, Sex:f, Act Length:3
+Act Angle:61, Calc Angle:3.8823758503205252, Age:53, Sex:f, Act Length:3
